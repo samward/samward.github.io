@@ -1,0 +1,7 @@
+# Site settings
+url: http://localhost:4000
+snipcart_api_key: ZmJlODQ3ODAtNDI4YS00NjhiLWFjODItYzI0M2U1ZjcwNmNhNjM3NDk3OTM4MTUxOTQ5Njgw
+
+# SASS settings
+sass:
+  style: expanded

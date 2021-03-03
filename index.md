@@ -1,0 +1,15 @@
+---
+title: Welcome
+description: A Jekyll based shopping cart built with simpleCart(js).
+sidebar_option: sidebar
+featured_image_path:
+facebook_image_path:
+layout: page
+---
+
+<p class="intro">Welcome to Preseli Farm.  We are breeders of Tamworth weaners near Crymych, Pembrokeshire</p>
+
+<blockquote>
+  <p>The Tamworth is considered Britain’s oldest pure breed and is similar in appearance to the Old English Forest Pig.</p>
+  <p>Of all the native breeds the Tamworth experienced the least influence from imports of Asian pigs during the 18th and 19th centuries.</p>
+</blockquote>

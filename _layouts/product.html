@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="site-inner">
+  <div class="wrap">
+    <div class="content-sidebar-wrap">
+
+      <main class="content single-product" itemscope itemtype="http://schema.org/Product">
+
+        <section class="product-image">
+          <div class="option-image">
+            {% for option in page.options %}
+          		<div id="product-{{ option.sku }}" class="option" {% unless forloop.first %}style="display: none"{% endunless %}>
+        				<img src="{{ option.image_path }}" itemprop="image">
+          		</div>
+          	{% endfor %}
+          </div>
+        </section>
+
+        <section class="product-details">
+          <h1 class="entry-title item_name" itemprop="name">{{ page.title }}</h1>
+          <h4>{{ page.subtitle }}</h4>
+
+          <p class="item_price">{{ page.price }}</p>
+          {{ content }}
+          {% if page.options.size > 1 %}
+            <p class="margin-bottom-0">Option:</p>
+            <select class="options">
+              {% for option in page.options %}
+                <option value="{{ option.sku }}"> {{ option.name }} </option>
+              {% endfor %}
+            </select>
+          {% endif %}
+          {% include buy_button.html %}
+        </section>
+
+      </main>
+
+    </div>
+  </div>
+</div>

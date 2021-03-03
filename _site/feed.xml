@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.preseli.wales/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.preseli.wales/" rel="alternate" type="text/html" /><updated>2021-03-03T20:59:15+00:00</updated><id>https://www.preseli.wales/feed.xml</id><title type="html">Preseli Farm</title><subtitle>Tamworth Weaners and Charcuterie made in the Preseli Hills, Pembrokeshire</subtitle><entry><title type="html">Drusilla’s First Litter</title><link href="https://www.preseli.wales/drusillas-first-litter/" rel="alternate" type="text/html" title="Drusilla’s First Litter" /><published>2021-02-03T00:00:00+00:00</published><updated>2021-02-03T00:00:00+00:00</updated><id>https://www.preseli.wales/drusillas-first-litter</id><content type="html" xml:base="https://www.preseli.wales/drusillas-first-litter/">&lt;p&gt;A variety of common markup showing how the theme styles them.&lt;/p&gt;
+
+&lt;h1 id=&quot;header-one&quot;&gt;Header one&lt;/h1&gt;
+
+&lt;h2 id=&quot;header-two&quot;&gt;Header two&lt;/h2&gt;
+
+&lt;h3 id=&quot;header-three&quot;&gt;Header three&lt;/h3&gt;
+
+&lt;h4 id=&quot;header-four&quot;&gt;Header four&lt;/h4&gt;
+
+&lt;h5 id=&quot;header-five&quot;&gt;Header five&lt;/h5&gt;
+
+&lt;h6 id=&quot;header-six&quot;&gt;Header six&lt;/h6&gt;
+
+&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
+
+&lt;p&gt;Single line blockquote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stay hungry. Stay foolish.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Multi line blockquote with a cite reference:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;small&quot;&gt;&lt;cite&gt;Steve Jobs&lt;/cite&gt; — Apple Worldwide Developers’ Conference, 1997&lt;/p&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Employee&lt;/th&gt;
+      &lt;th&gt;Salary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;John Doe&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$1&lt;/td&gt;
+      &lt;td&gt;Because that’s all Steve Jobs needed for a salary.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Jane Doe&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$100K&lt;/td&gt;
+      &lt;td&gt;For all the blogging she does.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Fred Bloggs&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$100M&lt;/td&gt;
+      &lt;td&gt;Pictures are worth a thousand words, right? So Jane × 1,000.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Jane Bloggs&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$100B&lt;/td&gt;
+      &lt;td&gt;With hair like that?! Enough said.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;definition-lists&quot;&gt;Definition Lists&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Definition List Title&lt;/dt&gt;
+  &lt;dd&gt;Definition list division.&lt;/dd&gt;
+  &lt;dt&gt;Startup&lt;/dt&gt;
+  &lt;dd&gt;A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.&lt;/dd&gt;
+  &lt;dt&gt;#dowork&lt;/dt&gt;
+  &lt;dd&gt;Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.&lt;/dd&gt;
+  &lt;dt&gt;Do It Live&lt;/dt&gt;
+  &lt;dd&gt;I’ll let Bill O’Reilly &lt;a href=&quot;https://www.youtube.com/watch?v=O_HyZ5aW76c&quot; title=&quot;We'll Do It Live&quot;&gt;explain&lt;/a&gt; this one.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;unordered-lists-nested&quot;&gt;Unordered Lists (Nested)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List item one
+    &lt;ul&gt;
+      &lt;li&gt;List item one
+        &lt;ul&gt;
+          &lt;li&gt;List item one&lt;/li&gt;
+          &lt;li&gt;List item two&lt;/li&gt;
+          &lt;li&gt;List item three&lt;/li&gt;
+          &lt;li&gt;List item four&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List item two&lt;/li&gt;
+      &lt;li&gt;List item three&lt;/li&gt;
+      &lt;li&gt;List item four&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+  &lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ordered-list-nested&quot;&gt;Ordered List (Nested)&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List item one
+    &lt;ol&gt;
+      &lt;li&gt;List item one
+        &lt;ol&gt;
+          &lt;li&gt;List item one&lt;/li&gt;
+          &lt;li&gt;List item two&lt;/li&gt;
+          &lt;li&gt;List item three&lt;/li&gt;
+          &lt;li&gt;List item four&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List item two&lt;/li&gt;
+      &lt;li&gt;List item three&lt;/li&gt;
+      &lt;li&gt;List item four&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+  &lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
+
+&lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.button&lt;/code&gt; class.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;button&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button Text&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .button}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;html-tags&quot;&gt;HTML Tags&lt;/h2&gt;
+
+&lt;h3 id=&quot;address-tag&quot;&gt;Address Tag&lt;/h3&gt;
+
+&lt;address&gt;
+  1 Infinite Loop&lt;br /&gt; Cupertino, CA 95014&lt;br /&gt; United States
+&lt;/address&gt;
+
+&lt;h3 id=&quot;anchor-tag-aka-link&quot;&gt;Anchor Tag (aka. Link)&lt;/h3&gt;
+
+&lt;p&gt;This is an example of a &lt;a href=&quot;http://apple.com&quot; title=&quot;Apple&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;abbreviation-tag&quot;&gt;Abbreviation Tag&lt;/h3&gt;
+
+&lt;p&gt;The abbreviation &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt; stands for “Cascading Style Sheets”.&lt;/p&gt;
+
+&lt;h3 id=&quot;cite-tag&quot;&gt;Cite Tag&lt;/h3&gt;
+
+&lt;p&gt;“Code is poetry.” —&lt;cite&gt;Automattic&lt;/cite&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;code-tag&quot;&gt;Code Tag&lt;/h3&gt;
+
+&lt;p&gt;You will learn later on in these tests that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;word-wrap: break-word;&lt;/code&gt; will be your best friend.&lt;/p&gt;
+
+&lt;h3 id=&quot;strike-tag&quot;&gt;Strike Tag&lt;/h3&gt;
+
+&lt;p&gt;This tag will let you &lt;strike&gt;strikeout text&lt;/strike&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;emphasize-tag&quot;&gt;Emphasize Tag&lt;/h3&gt;
+
+&lt;p&gt;The emphasize tag should &lt;em&gt;italicize&lt;/em&gt; text.&lt;/p&gt;
+
+&lt;h3 id=&quot;insert-tag&quot;&gt;Insert Tag&lt;/h3&gt;
+
+&lt;p&gt;This tag should denote &lt;ins&gt;inserted&lt;/ins&gt; text.&lt;/p&gt;
+
+&lt;h3 id=&quot;keyboard-tag&quot;&gt;Keyboard Tag&lt;/h3&gt;
+
+&lt;p&gt;This scarcely known tag emulates &lt;kbd&gt;keyboard text&lt;/kbd&gt;, which is usually styled like the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; tag.&lt;/p&gt;
+
+&lt;h3 id=&quot;preformatted-tag&quot;&gt;Preformatted Tag&lt;/h3&gt;
+
+&lt;p&gt;This tag styles large blocks of code.&lt;/p&gt;
+
+&lt;pre&gt;
+.post-title {
+	margin: 0 0 5px;
+	font-weight: bold;
+	font-size: 38px;
+	line-height: 1.2;
+	and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+&lt;/pre&gt;
+
+&lt;h3 id=&quot;quote-tag&quot;&gt;Quote Tag&lt;/h3&gt;
+
+&lt;p&gt;&lt;q&gt;Developers, developers, developers…&lt;/q&gt; –Steve Ballmer&lt;/p&gt;
+
+&lt;h3 id=&quot;strong-tag&quot;&gt;Strong Tag&lt;/h3&gt;
+
+&lt;p&gt;This tag shows &lt;strong&gt;bold text&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;subscript-tag&quot;&gt;Subscript Tag&lt;/h3&gt;
+
+&lt;p&gt;Getting our science styling on with H&lt;sub&gt;2&lt;/sub&gt;O, which should push the “2” down.&lt;/p&gt;
+
+&lt;h3 id=&quot;superscript-tag&quot;&gt;Superscript Tag&lt;/h3&gt;
+
+&lt;p&gt;Still sticking with science and Isaac Newton’s E = MC&lt;sup&gt;2&lt;/sup&gt;, which should lift the 2 up.&lt;/p&gt;
+
+&lt;h3 id=&quot;variable-tag&quot;&gt;Variable Tag&lt;/h3&gt;
+
+&lt;p&gt;This allows you to denote &lt;var&gt;variables&lt;/var&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Markup" /><category term="content" /><category term="css" /><category term="formatting" /><category term="html" /><category term="markup" /><summary type="html">A variety of common markup showing how the theme styles them.</summary></entry></feed>

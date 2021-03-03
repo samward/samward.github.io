@@ -1,0 +1,17 @@
+<div class="product">
+  <div class="product__information">
+     <h2 class="product__title">{{ product.title }}</h2>
+     <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
+     <button
+         class="buy-button snipcart-add-item"
+         data-item-id="{{ page.sku }}"
+         data-item-name="{{ page.title }}"
+         data-item-price="{{ page.price }}"
+         data-item-image="{{ page.image }}"
+         data-item-url="https://www.preseli.wales{{ page.url }}"
+         data-item-description="{{ page.content | remove: '<p>' | remove: '</p>' }}">
+         Add to basket
+      </button>
+
+  </div>
+</div>
