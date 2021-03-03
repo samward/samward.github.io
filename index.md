@@ -1,6 +1,6 @@
 ---
 title: Welcome
-description: A Jekyll based shopping cart built with simpleCart(js).
+description: Preseli Farm. Rare breed pigs and Welsh Charcuterie near Crymych, Pembrokeshire
 sidebar_option: sidebar
 featured_image_path:
 facebook_image_path:
