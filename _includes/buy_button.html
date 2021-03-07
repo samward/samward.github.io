@@ -1,15 +1,15 @@
 <div class="product">
   <div class="product__information">
      <h2 class="product__title">{{ product.title }}</h2>
-     <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
+     <p class="product__description">{{ product.description }}</p>
      <button
          class="buy-button snipcart-add-item"
          data-item-id="{{ page.sku }}"
          data-item-name="{{ page.title }}"
          data-item-price="{{ page.price }}"
-         data-item-image="{{ page.image }}"
+         data-item-image="{{ page.images.first.path }}"
          data-item-url="https://www.preseli.wales{{ page.url }}"
-         data-item-description="{{ page.content | remove: '<p>' | remove: '</p>' }}"
+         data-item-description="{{ page.description }}"
          {% for option in page.options %}
           data-item-custom{{ forloop.index }}-name="{{ option.name }}"
           data-item-custom{{ forloop.index }}-options="No preference{% for option in option.options %}|{{ option }}{% endfor %}"

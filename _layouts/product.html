@@ -10,9 +10,9 @@ layout: default
 
         <section class="product-image">
           <div class="option-image">
-            {% for option in page.options %}
-          		<div id="product-{{ option.sku }}" class="option" {% unless forloop.first %}style="display: none"{% endunless %}>
-        				<img src="{{ option.image_path }}" itemprop="image">
+            {% for image in page.images %}
+          		<div id="product-image-{{ forloop.index }}" class="option" {% unless forloop.first %}style="display: none"{% endunless %}>
+        				<img src="{{ image.path }}" itemprop="image">
           		</div>
           	{% endfor %}
           </div>
@@ -25,6 +25,7 @@ layout: default
           <p class="item_price">{{ page.price }}</p>
           {{ content }}
           {% include buy_button.html %}
+          {% if page.category %}{% include {{ page.category }}.html %}{% endif %}
         </section>
 
       </main>
