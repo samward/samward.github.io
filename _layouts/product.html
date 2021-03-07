@@ -24,14 +24,6 @@ layout: default
 
           <p class="item_price">{{ page.price }}</p>
           {{ content }}
-          {% if page.options.size > 1 %}
-            <p class="margin-bottom-0">Option:</p>
-            <select class="options">
-              {% for option in page.options %}
-                <option value="{{ option.sku }}"> {{ option.name }} </option>
-              {% endfor %}
-            </select>
-          {% endif %}
           {% include buy_button.html %}
         </section>
 

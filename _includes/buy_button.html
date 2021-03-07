@@ -9,7 +9,12 @@
          data-item-price="{{ page.price }}"
          data-item-image="{{ page.image }}"
          data-item-url="https://www.preseli.wales{{ page.url }}"
-         data-item-description="{{ page.content | remove: '<p>' | remove: '</p>' }}">
+         data-item-description="{{ page.content | remove: '<p>' | remove: '</p>' }}"
+         {% for option in page.options %}
+          data-item-custom{{ forloop.index }}-name="{{ option.name }}"
+          data-item-custom{{ forloop.index }}-options="No preference{% for option in option.options %}|{{ option }}{% endfor %}"
+         {% endfor %}
+      >
          Add to basket
       </button>
 

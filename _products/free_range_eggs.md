@@ -5,9 +5,6 @@ title: Free Range Eggs
 subtitle: Freshly laid by outdoor hens
 description: Six large free range eggs
 image: /images/products/weaners/IMG_6016.JPG
-options:
-  - name: Six
-    image_path: /images/products/weaners/IMG_6016.JPG
 ---
 
 They don't get any fresher than this
