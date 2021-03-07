@@ -1,9 +1,9 @@
 ---
 price: 39
 sku: couples_pork
-title: Couple's selection box
+title: Couples selection box
 category: pork
-subtitle: Ready early August
+subtitle: Smaller cuts, conveniently packaged
 description: A selection of free range cuts and joints suitable for two.
 images:
  - path: /images/products/couples_selection/main.jpg
