@@ -14,6 +14,7 @@
           data-item-custom{{ forloop.index }}-name="{{ option.name }}"
           data-item-custom{{ forloop.index }}-options="No preference{% for option in option.options %}|{{ option }}{% endfor %}"
          {% endfor %}
+         data-item-shippable="{{ page.shippable | default: true }}"
       >
          Add to basket
       </button>
