@@ -1,10 +1,10 @@
 ---
 price: 39
 sku: couples_pork
-title: Couples selection box
+title: Couples pork selection
 category: pork
-subtitle: Smaller cuts, conveniently packaged
-description: A selection of free range cuts and joints suitable for two.
+subtitle: Smaller cuts of pork, conveniently packaged
+description: A selection of free range pork cuts and joints, suitable for two.
 images:
  - path: /images/products/couples_selection/main.jpg
 options:

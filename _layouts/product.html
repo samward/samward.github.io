@@ -22,7 +22,9 @@ layout: default
           <h1 class="entry-title item_name" itemprop="name">{{ page.title }}</h1>
           <h4>{{ page.subtitle }}</h4>
 
-          <p class="item_price">{{ page.price }}</p>
+          <p class="item_price">
+            {{ page.price }} <small>+ delivery</small>
+          </p>
           {{ content }}
           {% include buy_button.html %}
           {% if page.category %}{% include {{ page.category }}.html %}{% endif %}
