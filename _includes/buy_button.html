@@ -8,7 +8,7 @@
          data-item-name="{{ page.title }}"
          data-item-price="{{ page.price }}"
          data-item-image="{{ page.images.first.path }}"
-         data-item-url="https://www.preseli.wales{{ page.url }}"
+         data-item-url="{{site.base_url}}{{ page.url }}"
          data-item-description="{{ page.description }}"
          {% for option in page.options %}
           data-item-custom{{ forloop.index }}-name="{{ option.name }}"

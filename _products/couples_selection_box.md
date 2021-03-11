@@ -10,7 +10,6 @@ images:
 options:
   - name: Delivery date
     options:
-      - 23rd March
       - 10th August
   - name: Preferred joint
     options:

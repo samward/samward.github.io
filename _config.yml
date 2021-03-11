@@ -1,7 +1,7 @@
 # Site Settings
-title: Preseli Farm
+title: Online Farm Shop
 description: Tamworth Weaners and Charcuterie made in the Preseli Hills, Pembrokeshire
-url: https://www.preseli.wales
+base_url: https://www.preseli.wales
 snipcart_api_key: MmE3NzYwNDktZTE1OS00MTAzLWE4ZmQtODAwNzU0ZTBiYTRjNjM3NDk4NDE1NTg1ODMzODk2
 
 # Jekyll Configuration
